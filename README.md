@@ -1,3 +1,7 @@
+<img width="302" height="314" alt="image" src="https://github.com/user-attachments/assets/e8254be2-6a6c-4486-bd44-44b018cf4da2" />
+<img width="301" height="546" alt="image" src="https://github.com/user-attachments/assets/3346e067-1c54-4af8-a838-4dcc76dcdc77" />
+
+
 # Shortly — Quick Article Summaries
 
 Shortly is a Chrome extension that extracts key points from long articles, blog posts, news pieces, or research papers and presents them as concise bullet points.
