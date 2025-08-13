@@ -56,3 +56,7 @@ Shortly/
 
 ---
 © 2025 Shortly — Made for fast reading.
+
+
+
+----
