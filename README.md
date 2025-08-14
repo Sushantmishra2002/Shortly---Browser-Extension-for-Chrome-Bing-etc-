@@ -50,15 +50,3 @@ Shortly/
 └── README.md           # Instructions
 ```
 
-## Notes
-- Works best on pages with actual article content (not just homepages).
-- The built-in summarizer is extractive, meaning it selects key sentences. Hugging Face option is abstractive.
-- Hugging Face free tier may have rate limits.
-
----
-© 2025 Shortly — Made for fast reading.
-
-
-
-----
----
